@@ -1,0 +1,5 @@
+-L ssignals
+-D analyzer-optimize
+-cp tests
+--main Tests
+--interp

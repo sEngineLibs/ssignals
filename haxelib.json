@@ -1,0 +1,11 @@
+{
+    "name": "ssignals",
+    "url": "https://github.com/sEngineLibs/ssignals",
+    "license": "Apache",
+    "tags": ["signals", "slots", "sugar"],
+    "version": "0.0.1",
+    "classPath": "src",
+    "description": "A lightweight Haxe library that implements a signals and slots system for easy event-driven communication between objects.",
+    "contributors": ["smoothie"],
+    "releasenote": "Initial release"
+}
